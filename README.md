@@ -1,1 +1,1 @@
-# CV
+https://zloty7.github.io/CV/
