@@ -1311,3 +1311,12 @@ body.ie ._ibg img {
 .page {
 	flex: 1 1 auto;
 }
+.link{
+	text-align: center;
+	color: #616161;
+	font-style: italic;
+	font-weight: 500;
+}
+.link:hover{
+	color: #ccf02a;
+}
